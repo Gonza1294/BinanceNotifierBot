@@ -1,0 +1,12 @@
+network:
+  ip: 127.0.0.1
+  port: 4897
+path:
+  logTelegramPath: "log"
+  logBinancePath: "log"
+  userIdPath: "user_ids.json"
+  stylesMessagesPath: "stylesMessages.json"
+  keysFilePath: "keys.json"
+  localPath: ""
+
+

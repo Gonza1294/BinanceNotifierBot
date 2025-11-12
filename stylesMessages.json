@@ -1,0 +1,45 @@
+{
+    "mensajes": {
+        "SELL_TP": [
+            "<u><b>Venta por Take Profit realizada!</b></u> &#128200",
+            "<b>Par:</b> BTC/USDT",
+            "",
+            "&#x1F3AF <b>Take Profit:</b> ${tp} ",
+            "&#x1F4B5 <b>Precio de  venta:</b> ${sell_price}",
+            "&#128176 <b>Ganancia por Operacion:</b> ${profit}",
+            "&#128176 <b>Ganancia Total:</b> ${total_profit}",
+            "&#9989 <b>Operaciones Ganadas:</b> {won}",
+            "&#10060 <b>Operaciones Perdidas:</b> {lost}",
+            "&#128202 <b>Tasa de Exito:</b> {win_rate}",
+            "&#x1F553 <b>Hora:</b> {time} "
+        ],
+        "SELL_SL": [
+            "<u><b>Venta por Stop Loss realizada!</b></u> &#128201",
+            "<b>Par:</b> BTC/USDT",
+            "",
+            "&#x1F3AF <b>Take Profit:</b> ${sl} ",
+            "&#x1F4B5 <b>Precio de  venta:</b> ${sell_price}",
+            "&#128176 <b>Ganancia por Operacion:</b> ${profit}",
+            "&#128176 <b>Ganancia Total:</b> ${total_profit}",
+            "&#9989 <b>Operaciones Ganadas:</b> {won}",
+            "&#10060 <b>Operaciones Perdidas:</b> {lost}",
+            "&#128202 <b>Tasa de Exito:</b> {win_rate}",
+            "&#x1F553 <b>Hora:</b> {time} "
+        ],
+        "BUY": [
+            "<u><b>Compra confirmada!</b></u> &#x2705",
+            "<b>Par:</b> BTC/USDT",
+            "",
+            "&#x1F4B5 <b>Precio de compra:</b> ${buy_price} ",
+            "&#x1F4B0 <b>Cantidad:</b> {quantity} BTC ",
+            "&#x1F3AF <b>Take Profit:</b> ${tp} ",
+            "&#x26D4 <b>Stop Loss:</b> ${sl} ",
+            "&#x1f4ca <b>Retorno:</b> {ret} ",
+            "&#x1F553 <b>Hora:</b> {time} "
+        ],
+        "START": [
+            "<u><b>El Bot a entrado en funcionamiento!</b></u>",
+            "<b>Par:</b> BTC/USDT"
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "api_key":"API_KEY_BINANCE",
+    "api_secret":"SECRET_KEY_BINANCE",
+    "telegram_token": "TOKEN"
+    
+    }
